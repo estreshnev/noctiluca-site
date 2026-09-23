@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["395XQ75L93.com.glittertechsolutions.noctiluca"],
+        "components": [
+          { "/": "/auth" },
+          { "/": "/auth/*" }
+        ]
+      }
+    ]
+  }
+}
